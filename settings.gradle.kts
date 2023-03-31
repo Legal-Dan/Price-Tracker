@@ -1,3 +1,3 @@
 
-rootProject.name = "kotlin-js-on-gh-pages"
+rootProject.name = "priceTracker"
 
